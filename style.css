@@ -288,7 +288,7 @@ body{
    }
   
   nav h1 {
-    display: none;*//* (display off-page?) */
+    display: none;/* (display off-page?) */
    }
   
   nav ul {
@@ -329,4 +329,9 @@ body{
     display: none;
    }
   
+  }
+
+  p 
+  {
+      text-align: justify;
   }
